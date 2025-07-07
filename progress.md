@@ -63,3 +63,23 @@
   - Used `df.columns` to inspect real structure and update all operations accordingly
 -  Reflection:
   - Learned how to adapt standard data manipulation tasks across datasets
+
+
+
+
+
+### Day 8 - SQL & Data Integration
+-  Task Done: Yes
+-  Tools: SQLite + Pandas + sqlite3
+-  SQL Used:
+  - GROUP BY + Aggregation (AVG, COUNT)
+  - WHERE with subquery
+  - UPDATE and DELETE operations
+-  Integration:
+  - Used sqlite3 in Python to query data into Pandas
+  - Performed SQL-style JOIN using pd.merge()
+-  Insights:
+  - SQL is easier for filtering and joining large datasets
+  - Pandas is better for exploring, transforming, and visualizing
+-  Favorite:
+  - I liked using `pd.merge()` to simulate SQL JOIN inside Python seamlessly
