@@ -95,3 +95,15 @@
   - Pandas is better for exploring, transforming, and visualizing
 -  Favorite:
   - I liked using `pd.merge()` to simulate SQL JOIN inside Python seamlessly
+
+  ### Day 9 - Advanced SQL Analytics & Business Queries
+-  Task Done: Yes
+-  New Skills:
+  - Multi-table JOINs and CTEs
+  - Window functions: RANK(), SUM() OVER()
+  - Identifying business insights from revenue & trend data
+-  Business Insight:
+  - Found Alice and Bob were top spenders
+  - Noted declining revenue trend in some Furniture products
+-  Most Challenging:
+  - Writing nested window functions and aligning product-wise monthly revenue
