@@ -65,6 +65,18 @@
   - Learned how to adapt standard data manipulation tasks across datasets
 
 
+### Day 7 - SQL Basics & SELECT Queries
+-  Task Done: Yes
+-  DB Used: In-memory SQLite
+-  Queries Practiced:
+  1. SELECT * FROM customers;
+  2. SELECT order_id, region FROM orders;
+  3. WHERE country = 'USA' and amount > 500
+  4. ORDER BY amount DESC LIMIT 3
+  5. GROUP BY region and AVG(sales)
+-  Reflection:
+  - Learned filtering, sorting, and aggregation in SQL
+  - Practiced on small dummy dataset using `sqlite3` and Pandas
 
 
 
